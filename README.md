@@ -1,6 +1,6 @@
 # IPC Mechanisms: Time Measurement of Processes
 
-This repository contains two C programs demonstrating the use of Inter-Process Communication (IPC) mechanisms to measure the execution time of a command. The programs showcase the use of shared memory and pipes in a POSIX environment.
+In this repository, you'll find two C programs that illustrate how to utilize Inter-Process Communication (IPC) techniques to time the execution of a command. These programs highlight the application of shared memory and pipes within a POSIX environment.
 
 ## Overview
 
